@@ -1,18 +1,3 @@
-## Getting Started
+![image](https://github.com/Rafhaelslv/Janela-de-contatos--com-Layouts-/assets/127260453/921f9de9-067c-4e7a-8426-bafb4d235a43)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Crie uma aplicação para mostrar uma agenda de contatos, semelhante a esta em anexo. Neste exercício preocupe-se apenas em criar a tela não se preocupe com as funcionalidades dos botões. Utilize alguns Paineis especiais como BorderPane, FlowPane, GridPane ou outro que desejar para tornar a tela responsiva.
